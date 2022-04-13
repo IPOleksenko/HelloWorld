@@ -1,0 +1,11 @@
+	IDENTIFICATION DIVISION.
+	PROGRAM-ID. IDEONE.
+ 
+	ENVIRONMENT DIVISION.
+ 
+	DATA DIVISION.
+ 
+	PROCEDURE DIVISION.
+	display 'Hello, world!' end-display.
+		STOP RUN.
+	>> Author: IPOleksenko

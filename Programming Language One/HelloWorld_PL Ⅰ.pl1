@@ -1,0 +1,4 @@
+Test: proc options (main);
+  put list ('Hello, world!');
+end;
+/*Author: IPOleksenko*/

@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\bin\Debug\netcoreapp3.1\HelloWorld_CSarp.exe
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\bin\Debug\netcoreapp3.1\HelloWorld_CSarp.deps.json
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\bin\Debug\netcoreapp3.1\HelloWorld_CSarp.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\bin\Debug\netcoreapp3.1\HelloWorld_CSarp.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\bin\Debug\netcoreapp3.1\HelloWorld_CSarp.dll
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\bin\Debug\netcoreapp3.1\HelloWorld_CSarp.pdb
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\obj\Debug\netcoreapp3.1\HelloWorld_CSarp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\obj\Debug\netcoreapp3.1\HelloWorld_CSarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\obj\Debug\netcoreapp3.1\HelloWorld_CSarp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\obj\Debug\netcoreapp3.1\HelloWorld_CSarp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\obj\Debug\netcoreapp3.1\HelloWorld_CSarp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\obj\Debug\netcoreapp3.1\HelloWorld_CSarp.dll
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\obj\Debug\netcoreapp3.1\HelloWorld_CSarp.pdb
+C:\Users\user\OneDrive\Рабочий стол\HelloWorld_CSarp\obj\Debug\netcoreapp3.1\HelloWorld_CSarp.genruntimeconfig.cache
