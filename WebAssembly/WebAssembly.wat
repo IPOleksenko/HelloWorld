@@ -6,7 +6,7 @@
     (memory 1)
     (export "memory" (memory 0))
 
-    (data (i32.const 0) "\08\00\00\00\0c\00\00\00Hello, world\n")
+    (data (i32.const 0) "\08\00\00\00\0c\00\00\00Hello, world!\n")
 
     (func $main (export "_start")
         i32.const 1
